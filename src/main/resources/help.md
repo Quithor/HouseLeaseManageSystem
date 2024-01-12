@@ -68,5 +68,5 @@
     在时间足够的情况下，可以将系统写成```JavaFX```窗口或```SpringBoot```web网页界面，
     并补齐目前缺失的功能。
 
-###### Author: YanQuithor(颜启鸿)
+###### Author: YanQuithor
 ###### Date: 2024.1.11
