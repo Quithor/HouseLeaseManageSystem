@@ -34,7 +34,8 @@
 
 <p style="font-size: 13px">
 &nbsp;&nbsp;&nbsp;&nbsp;
-注：本次Java开发是针对数据库设计的，用户看到的一切功能实现都是数据库优先
+注：1.本次Java开发是针对数据库设计的，用户看到的一切功能实现都是数据库优先</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.我提供的这个服务器将在2024.2.1到期，请勿链接
 </p>
 
 1. 类设计  
