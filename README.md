@@ -90,7 +90,7 @@ public interface DBData {
 
 ### 四、关于这个项目
 
-我正打算尝试用其他关系型数据库
+我正打算尝试用其他类型的数据库
 
 ###### Author: YanQuithor
 ###### Date: 2024.1.11
